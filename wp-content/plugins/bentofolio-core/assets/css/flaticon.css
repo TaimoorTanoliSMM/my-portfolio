@@ -1,10 +1,10 @@
 @font-face {
     font-family: "flaticon_s";
-    src: url("/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.ttf") format("truetype"),
-    url("/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.woff") format("woff"),
-    url("/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.woff2") format("woff2"),
-    url("/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.eot") format("embedded-opentype"),
-    url("/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.svg") format("svg");
+    src: url("https://https://taimoortanolismm.github.io/my-portfolio/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.ttf") format("truetype"),
+    url("https://https://taimoortanolismm.github.io/my-portfolio/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.woff") format("woff"),
+    url("https://https://taimoortanolismm.github.io/my-portfolio/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.woff2") format("woff2"),
+    url("https://https://taimoortanolismm.github.io/my-portfolio/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.eot") format("embedded-opentype"),
+    url("https://https://taimoortanolismm.github.io/my-portfolio/wp-content/plugins/bentofolio-core/assets/fonts/flaticon_s.svg") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
